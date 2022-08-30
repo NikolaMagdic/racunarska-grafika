@@ -1,0 +1,3 @@
+Projekat ne moze da ucita modele kada je u ovom folderu, zato 
+se morao prebaciti na desktop 
+ti skaliranje
